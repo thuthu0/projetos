@@ -1,0 +1,31 @@
+body{
+    background-color: rgba(250, 50, 50,0.7);
+    text-align: center;
+}
+header{
+    display: flex;
+    justify-content: space-evenly;
+}
+.inicio{
+    font-size: 25px;
+}
+main{
+    background-color: rgba(50, 50, 250,0.7);
+}
+p{
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+.bolo{
+    color: rgb(10, 190, 0);
+}
+.salgado{
+    color: rgb(170, 170, 0);
+}
+img{
+    width: 50%;
+}
+.rodapé{
+    display: inline-block;
+    margin: 10px;
+}
